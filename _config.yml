@@ -69,8 +69,8 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo: git@github.com:qiuzt/qiuzt.github.io.git,master
-  branch: master
+  repo:git@github.com:qiuzt/qiuzt.github.io.git,master
+  branch:master
   
 # Disqus #Disqus评论系统
 disqus_shortname: 
